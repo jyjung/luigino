@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="luigino",
-    version="0.1.0",
+    version="0.1.1",
     author="Jung JinYoung",
     author_email="bungker@gmail.com",
     description="Utilities package for Luigi tasks with Celery integration",
